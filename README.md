@@ -94,14 +94,13 @@
 
 ---
 
-# 🔥 Featured Projects
+🔥 Featured Projects
+🧠 ANN Customer Churn Prediction
 
-## 🤖 Fake Job Posting Detection System
+An Artificial Neural Network (ANN) based Machine Learning application that predicts whether a customer is likely to 
+churn or remain with the company, using demographic and banking-related customer data.
 
-A Machine Learning based application that detects potentially fraudulent job postings using NLP techniques.
-
-**Tech Stack:** Python • Django • Machine Learning • NLP • MySQL
-
+Tech Stack: Python • TensorFlow • Keras • NumPy • Pandas • Scikit-learn • Artificial Neural Networks
 ---
 
 ## 📧 Email Spam Classifier
