@@ -3,16 +3,16 @@
 ### 💻 Java Developer | Backend Developer | AI/ML Enthusiast | Problem Solver
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/satwik-reddy-kunduru-058647321/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Satwik-2005">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://leetcode.com/u/Satwik_2005/">
     <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:satwik925reddy@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -23,10 +23,11 @@
 
 * 🎓 B.Tech in **Computer Science & Engineering** @ GRIET (2023–2027)
 * 💻 Passionate about **Java, Backend Development & Spring Boot**
-* 🤖 Interested in **Machine Learning, Data Science & AI**
+* 🤖 Interested in **Machine Learning, Deep Learning, Data Science & AI**
 * 🧠 Strong interest in **Data Structures & Algorithms**
 * 🏗️ Building real-world applications using **Java, Spring Boot, MySQL & Python**
 * 🔐 Exploring **REST APIs, JWT Authentication, Databases & Backend Architecture**
+* 🧠 Exploring **Artificial Neural Networks and Deep Learning**
 * 🌱 Continuously learning and improving my problem-solving skills
 * ⚡ *Code → Debug → Learn → Build → Repeat*
 
@@ -52,14 +53,17 @@
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
-## Data & AI
+## Data Science & AI
 
 <p>
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Neural%20Networks-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
 ## Databases
@@ -90,17 +94,23 @@
 * 📌 RESTful Web Services
 * 📌 Authentication & Authorization
 * 📌 Machine Learning
+* 📌 Deep Learning
 * 📌 Natural Language Processing
 
 ---
 
-🔥 Featured Projects
-🧠 ANN Customer Churn Prediction
+# 🔥 Featured Projects
 
-An Artificial Neural Network (ANN) based Machine Learning application that predicts whether a customer is likely to 
-churn or remain with the company, using demographic and banking-related customer data.
+## 🧠 ANN Customer Churn Prediction
 
-Tech Stack: Python • TensorFlow • Keras • NumPy • Pandas • Scikit-learn • Artificial Neural Networks
+An **Artificial Neural Network (ANN)** based Deep Learning project that predicts whether a customer is likely to **churn or stay with the company** based on customer information.
+
+The project includes data preprocessing, categorical encoding, feature scaling, ANN model building, training and customer churn prediction.
+
+**Tech Stack:** Python • TensorFlow • Keras • NumPy • Pandas • Scikit-learn • Artificial Neural Networks
+
+**Repository:** Satwik-2005/ANN-Classification-Churn
+
 ---
 
 ## 📧 Email Spam Classifier
@@ -133,20 +143,20 @@ An AI-powered solution focused on using intelligent techniques to improve bio-wa
 * 💻 Active in competitive programming
 * 🚀 Participated in coding competitions and hackathons
 * 🎯 Consistently practicing Data Structures & Algorithms
-* 🏗️ Built multiple full-stack and Machine Learning projects
+* 🏗️ Built multiple Machine Learning and Backend projects
+* 🔥 Continuously improving problem-solving and development skills
 
 ---
 
 # 📜 Certifications
 
-* 🐍 Python — Infosys Springboard
-* 🧠 Natural Language Processing Certification
-* 🔐 Introduction to Cybersecurity — Cisco Networking Academy
-* 🤖 GitHub Copilot Prompt Engineering
-* 📊 Data Science / Machine Learning certifications
+* 🐍 **Python** — Infosys Springboard
+* 🧠 **Natural Language Processing Certification**
+* 🔐 **Introduction to Cybersecurity** — Cisco Networking Academy
+* 🤖 **GitHub Copilot Prompt Engineering**
+* 📊 **Machine Learning / Data Science Certifications**
 
 ---
-
 
 # 🧮 Problem Solving
 
@@ -174,7 +184,7 @@ An AI-powered solution focused on using intelligent techniques to improve bio-wa
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="mailto:Satwik925reddy@gmail.com">
+<a href="mailto:satwik925reddy@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
