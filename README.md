@@ -159,16 +159,6 @@ An AI-powered solution focused on using intelligent techniques to improve bio-wa
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
